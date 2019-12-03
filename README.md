@@ -4,7 +4,7 @@ NY theater dataset - December 2019
 # group members
 Jeff
 Tariq
-Sparch
+Sparsh
 Tim
 Luke
 Alex
